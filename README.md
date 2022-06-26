@@ -1,4 +1,4 @@
-## Oiii eu sou a Laura Antunes, estudante de programação.
+## Olá! Eu sou a Laura Antunes, estudante de programação.
 <div align="center">
   <a href = " https://github.com/Laura-081 ">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laura-081&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -8,8 +8,6 @@
   <img align="center" alt="Laura-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Laura-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Laura-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="![338224_g2VbRJuz](https://user-images.githubusercontent.com/106887651/175827963-25f10494-23ae-4d95-9eba-cefb3249bcb6.png)
 </div>
   
   ##
