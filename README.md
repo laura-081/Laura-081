@@ -14,7 +14,7 @@
  
 <div> 
 
-  <a href="https://www.linkedin.com/in/laura-helena-9ba858211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/laura-antunes-9ba858211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/Laura-081/Laura-081/blob/output/github-contribution-grid-snake.svg)
  
