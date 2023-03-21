@@ -1,4 +1,4 @@
-## Olá! Eu sou a Laura Antunes, estudante de programação.
+## Olá! Eu sou a Laura, desenvolvedora em crescente aprendizado.
 <div align="center">
   <a href = " https://github.com/Laura-081 ">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laura-081&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
